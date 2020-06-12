@@ -1,5 +1,9 @@
 (function(){
-    if(window.isMobile()){
+    const detectDeviceType = () => {
+        return /Android|webOS|iPhone|iPad|BlackBerry|IEMobile|Opera Mini/i
+        .test(navigator.userAgent)?'Mobile':'Desktop';
+    }
+    if(detectDeviceType()==="Mobile"){
         return;
     }
     let body = $("body")
