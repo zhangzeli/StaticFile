@@ -11,8 +11,8 @@ body #body-wrap #divleft{
     color: red;
     /* border: 1px solid black; */
     box-sizing: border-box;
-    color: #4c4948;
-    font-size: 14px;
+    /* color: #4c4948; */
+    font-size: 24px;
     overflow: hidden;
 }
 body #body-wrap #divright{
@@ -27,8 +27,8 @@ body #body-wrap #divright{
     color: red;
     height: 200px;
     width: 300px;
-    color: #4c4948;
-    font-size: 14px;
+    /* color: #4c4948; */
+    font-size: 24px;
     /* // z-index: 100px; */
     overflow: hidden;
 }
