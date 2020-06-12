@@ -1,6 +1,7 @@
 # StaticFile
 
 [参考资料](https://blog.csdn.net/qq_36910987/article/details/89562291)
+[参考资料](https://blog.ljyngup.com/archives/843.html/)
 
 相信用过github的道友，应该遇到过github加载很慢，甚至打不开的情状。现在，好用的jsDelivr就用上场了，可免费提供CDN加速了，可谓是前端的良心神器之一
 
